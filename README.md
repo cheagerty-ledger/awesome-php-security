@@ -32,6 +32,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
+- [OWASP info](https://owasp.org/www-community/Source_Code_Analysis_Tools) - OWASPS's resources.
 - [Enlightn](https://www.laravel-enlightn.com/) - Enlightn is a static and dynamic analysis tool to improve the security of Laravel applications. 
 - [Exakat](https://github.com/exakat/exakat) - *Exakat* is a PHP static code analysis, with serious [Security reviews](https://exakat.readthedocs.io/en/latest/Rulesets.html#security).
 - [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
